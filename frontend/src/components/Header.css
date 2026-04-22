@@ -1,0 +1,26 @@
+.navbar-custom {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.navbar-custom .navbar-brand {
+  color: #fff !important;
+  transition: color 0.3s;
+}
+
+.navbar-custom .navbar-brand:hover {
+  color: #0dcaf0 !important;
+}
+
+.navbar-custom .nav-link {
+  color: #ccc !important;
+  transition: color 0.3s;
+  margin: 0 5px;
+}
+
+.navbar-custom .nav-link:hover {
+  color: #0dcaf0 !important;
+}
+
+.navbar-custom .nav-link.active {
+  color: #0dcaf0 !important;
+}

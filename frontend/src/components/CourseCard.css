@@ -1,0 +1,21 @@
+.course-card {
+  transition: transform 0.3s, box-shadow 0.3s;
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.course-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.15) !important;
+}
+
+.course-description {
+  color: #666;
+  min-height: 60px;
+}
+
+.course-card .badge {
+  font-size: 0.75rem;
+  padding: 0.4rem 0.6rem;
+}
