@@ -1,4 +1,4 @@
-# MERN Learning Management System (LMS)
+# Full Fledged MERN Stack Learning Management System
 
 A comprehensive, production-level Learning Management System built with MERN Stack (MongoDB, Express, React, Node.js).
 
