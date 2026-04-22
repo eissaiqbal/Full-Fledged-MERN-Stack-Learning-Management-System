@@ -261,9 +261,6 @@ For production-level applications, consider:
 4. Push to branch (`git push origin feature/AmazingFeature`)
 5. Open Pull Request
 
-## License
-
-This project is licensed under the Muhammad Eissa Iqbal
 
 ## 📧 Support
 
@@ -275,3 +272,16 @@ For issues or questions, please open an issue on GitHub.
 - MongoDB
 - React Community
 - Bootstrap
+
+
+## Browser Support
+
+This application is compatible with modern web browsers including Safari, Firefox, Chrome, and Edge.
+
+## License
+
+
+
+## Author
+
+Eissa Iqbal

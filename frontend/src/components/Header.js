@@ -17,7 +17,7 @@ const Header = () => {
     <Navbar bg="dark" expand="lg" sticky="top" className="navbar-custom">
       <Container>
         <Navbar.Brand as={Link} to="/" className="fw-bold fs-5">
-          Eissa's LMS Platform
+          Full Fledged MERN Stack Learning Management System
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">

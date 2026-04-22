@@ -6,7 +6,7 @@ const About = () => {
     <Container className="py-5">
       <Row className="mb-5">
         <Col md={8} className="mx-auto">
-          <h1 className="mb-4">About Eissa's LMS Platform</h1>
+          <h1 className="mb-4">Full Fledged MERN Stack Learning Management System</h1>
           <p className="lead">
             LMS Platform is a comprehensive learning management system designed to connect
             educators and students in a modern, interactive environment.

@@ -8,7 +8,7 @@ const Footer = () => {
       <Container>
         <Row className="py-5">
           <Col md={3} className="mb-4">
-            <h5>Eissa's LMS Platform</h5>
+            <h5>Full Fledged MERN Stack Learning Management System</h5>
             <p className="small">Your gateway to knowledge and skill development.</p>
           </Col>
           <Col md={3} className="mb-4">

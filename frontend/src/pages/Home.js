@@ -14,7 +14,7 @@ const Home = () => {
           <Row className="align-items-center min-vh-100">
             <Col md={6}>
               <h1 className="display-4 fw-bold mb-4">
-                Welcome to Eissa's LMS Platform
+                Welcome to Full Fledged MERN Stack Learning Management System
               </h1>
               <p className="lead mb-4">
                 Access quality education from anywhere. Learn from expert instructors and grow your skills at your own pace.
