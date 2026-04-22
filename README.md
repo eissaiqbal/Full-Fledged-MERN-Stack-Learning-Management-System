@@ -40,7 +40,7 @@ A comprehensive, production-level Learning Management System built with MERN Sta
 ## Project Structure
 
 ```
-mern-lms/
+full-fledged-mern-stack-learning-management-system/
 ├── backend/
 │   ├── config/
 │   │   └── db.js
@@ -55,7 +55,7 @@ mern-lms/
 │   ├── models/
 │   │   ├── Course.js
 │   │   ├── Enrollment.js
-│   ��   └── User.js
+│   │   └── User.js
 │   ├── routes/
 │   │   ├── auth.js
 │   │   ├── courses.js
@@ -239,7 +239,7 @@ Password: alice123
 - Environment variables for secrets
 - CORS enabled for frontend
 
-## caling Considerations
+## Scaling Considerations
 
 For production-level applications, consider:
 - Add email verification
